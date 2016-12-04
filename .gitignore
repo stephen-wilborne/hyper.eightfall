@@ -1,0 +1,10 @@
+### seealso
+### href="smartpath://mymedia/2014/git/github/myclip/myclip.snippets/git.yaml" find="mazda_hotels_gavel"
+
+## gitignore dmid://mazda_hotels_gavel
+## **2009/
+**.ignore*/
+**.private*/
+**dotprivate*/
+**dotignore*/
+**.DS_Store
